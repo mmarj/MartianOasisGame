@@ -1,0 +1,119 @@
+Initialize engine version: 5.3.0f4 (2524e04062b4)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) Iris(TM) Graphics 5100 (ID=0xa2e)
+    Vendor:   Intel
+    VRAM:     128 MB
+Cluster Renderer Log : ARG list
+C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis.exe
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Pathfinding.ClipperLib.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Pathfinding.ClipperLib.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Pathfinding.JsonFx.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Pathfinding.Poly2Tri.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Pathfinding.Poly2Tri.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\clipper_library.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\clipper_library.dll into Unity Child Domain
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Poly2Tri.dll (this message is harmless)
+Loading C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\Poly2Tri.dll into Unity Child Domain
+- Completed reload, in  0.421 seconds
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\shakhawat nadim\Desktop\MartianOasisGame\martian Oasis_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.640393 ms
+BestFit is only supported for dynamic fonts.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: ea8 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'SmokeTrail') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'SmokeTrail') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'SmokeTrail') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'SmokeTrail') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'SmokeTrail') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/BillboardTree' - Pass '' has no vertex shader
+UnloadTime: 4.892745 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2297.
+Total: 0.537599 ms (FindLiveObjects: 0.127212 ms CreateObjectMapping: 0.064196 ms MarkObjects: 0.327285 ms  DeleteObjects: 0.017723 ms)
+
+Should Load
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object 'SmokeTrail') is missing!
+ 
+(Filename:  Line: 1655)
+
+The referenced script on this Behaviour (Game Object 'SmokeTrail') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.024735 ms
+
+Unloading 138 unused Assets to reduce memory usage. Loaded Objects now: 1753.
+Total: 3.639134 ms (FindLiveObjects: 0.266239 ms CreateObjectMapping: 0.291839 ms MarkObjects: 0.837316 ms  DeleteObjects: 2.241770 ms)
+
+Should Load
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+The referenced script on this Behaviour (Game Object 'SmokeTrail') is missing!
+ 
+(Filename:  Line: 1655)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.847556 ms
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1718.
+Total: 0.615187 ms (FindLiveObjects: 0.127212 ms CreateObjectMapping: 0.087827 ms MarkObjects: 0.356036 ms  DeleteObjects: 0.042535 ms)
+
+Should Load
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.771937 ms
+
+Unloading 227 unused Assets to reduce memory usage. Loaded Objects now: 9381.
+Total: 2.333930 ms (FindLiveObjects: 0.447802 ms CreateObjectMapping: 0.187076 ms MarkObjects: 1.023211 ms  DeleteObjects: 0.674263 ms)
+
